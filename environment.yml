@@ -1,0 +1,1 @@
+dependenies: -python=3 -pip: -spacy-ipykernel - pcipy - numpy - scikit-learn - matplotlib - pandas -thinc
