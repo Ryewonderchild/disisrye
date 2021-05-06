@@ -11,6 +11,5 @@ dependencies:
     - thinc
     - scipy
     - beautifulsoup4
-    - webdriver
     - lxml
     - html5lib
