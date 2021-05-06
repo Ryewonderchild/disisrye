@@ -10,6 +10,8 @@ dependencies:
     - pandas 
     - thinc
     - scipy
-    - BeautifulSoup
+    - beautifulsoup4
     - etree
     - webdriver
+    - lxml
+    - html5lib
